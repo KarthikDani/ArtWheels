@@ -16,8 +16,8 @@ ArtWheels is a RISC-V VSD Squadron board based robotic platform designed for art
 ## Features
 
 - Remote control via a mobile app.
-    - Joystick mode
-    - Mobile Gyro Sensor mode
+  - Joystick mode
+  - Mobile Gyro Sensor mode
 - Precise servo motor for drawing and design.
 - Customizable drawing patterns.
 - Distance sensing for added safety during operation.
