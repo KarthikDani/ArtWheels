@@ -1,6 +1,6 @@
 # ArtWheels
 
-ArtWheels is an RISC V VSD Squadron board based robotic platform designed for art enthusiasts, makers, and educators. This versatile robot can be controlled via Bluetooth from a mobile app, allowing you to create intricate drawings and patterns on surfaces.
+ArtWheels is a RISC-V VSD Squadron board based robotic platform designed for art enthusiasts, makers, and educators. This versatile robot can be controlled via Bluetooth from a mobile app, allowing you to create intricate drawings and patterns on surfaces.
 
 ## Table of Contents
 
