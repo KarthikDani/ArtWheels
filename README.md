@@ -2,6 +2,19 @@
 
 ArtWheels is a RISC-V VSD Squadron board based robotic platform designed for art enthusiasts, makers, and educators. This versatile robot can be controlled via Bluetooth from a mobile app, allowing you to create intricate drawings and patterns on surfaces.
 
+- ### Compilation logs: 
+    - #### Text log:
+        - [ArduinoUNO Compiled Output](CompilationLogs/TextFiles/ArduinoUNO_compiled_log.txt)
+        - [RISCDUINO Compiled Output](CompilationLogs/TextFiles/Riscduino_compiled_log.txt) 
+    - #### Snapshots:
+        - Compiled Output for Arduino UNO board:
+        ![ArduinoUNO Compilation Snapshot](CompilationLogs/Snapshots/ArduinoUno%20Compiled%20Log%20Screenshot.png)
+
+        - Compiled output for Riscduino Board:
+         ![RISCDUINO Compilation Snapshot](CompilationLogs/Snapshots/Riscduino%20Compiled%20Log%20Screenshot.jpeg)
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
@@ -13,11 +26,13 @@ ArtWheels is a RISC-V VSD Squadron board based robotic platform designed for art
 - [Custom Commands](#custom-commands)
 - [License](#license)
 
+---
+
 ## Features
 
 - Remote control via a mobile app.
-  - Joystick mode
-  - Mobile Gyro Sensor mode
+    - Joystick mode
+    - Mobile Gyro Sensor mode
 - Precise servo motor for drawing and design.
 - Customizable drawing patterns.
 - Distance sensing for added safety during operation.
@@ -47,7 +62,7 @@ To build your own ArtWheels robot, you'll need the following components:
 - Servo motor
 - Bluetooth module (HC-05)
 - Chassis and wheels
-- 2 x 18650 Li ion batteries
+- 2 x 18650 Li-ion batteries
 - 18650 Lithium Battery Shield
 
 ### Software Requirements
