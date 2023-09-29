@@ -4,14 +4,14 @@ ArtWheels is a RISC-V VSD Squadron board based robotic platform designed for art
 
 - ### Compilation logs: 
     - #### Text log:
-        - [ArduinoUNO Compiled Output](Compiled%20logs/TextFiles/ArduinoUNO_compiled_log.txt)
-        - [RISCDUINO Compiled Output](CompilationLogs/TextFiles/Riscduino_compiled_log.txt) 
+        - [ArduinoUNO Compiled Output](Compiled%20logs/Text%20files/ArduinoUNO_compiled_log.txt)
+        - [RISCDUINO Compiled Output](Compiled%20logs/Text%20files/Riscduino_compiled_log.txt) 
     - #### Snapshots:
         - Compiled Output for Arduino UNO board:
-        ![ArduinoUNO Compilation Snapshot](CompilationLogs/Snapshots/ArduinoUno%20Compiled%20Log%20Screenshot.png)
+        ![ArduinoUNO Compilation Snapshot](Compiled%20logs/Screenshots/ArduinoUno%20Compiled%20Log%20Screenshot.png)
 
         - Compiled output for Riscduino Board:
-         ![RISCDUINO Compilation Snapshot](CompilationLogs/Snapshots/Riscduino%20Compiled%20Log%20Screenshot.jpeg)
+         ![RISCDUINO Compilation Snapshot](Compiled%20logs/Screenshots/Riscduino%20Compiled%20Log%20Screenshot.jpeg)
 
 ---
 
